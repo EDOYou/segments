@@ -32,7 +32,7 @@ class Segment {
         return new Point(x,y);
     }
 
-    // The intersection point of the lines is found with the following value of t
+    // The intersection point of the lines is found with the following value of t, u
     Point intersection(Segment another) {
 
 
